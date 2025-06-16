@@ -30,7 +30,7 @@ Game kartu memori berbasis web di mana pemain mencocokkan pasangan simbol. Game 
 
 1. Clone repo ini:
    ```bash
-   git clone https://github.com/usernamekamu/memory-flip-game.git
+   https://github.com/Yuliuslaki/game_momory_flip.git
 # 🎮 Memory Flip Game – Capstone Project
 
 Game kartu memori berbasis web di mana pemain mencocokkan pasangan simbol. Game ini memiliki 3 level dengan jumlah pasangan yang meningkat, untuk melatih ketelitian dan daya ingat.
